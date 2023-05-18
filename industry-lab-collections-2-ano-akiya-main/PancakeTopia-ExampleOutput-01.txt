@@ -1,0 +1,996 @@
+C:\Dev\Java\jdk1.8.0_66\bin\java -Didea.launcher.port=7551 "-Didea.launcher.bin.path=C:\Dev\IntelliJ IDEA 2016.3.5\bin" -Dfile.encoding=UTF-8 -classpath "C:\Dev\Java\jdk1.8.0_66\jre\lib\charsets.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\deploy.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\access-bridge-64.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\cldrdata.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\dnsns.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\jaccess.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\jfxrt.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\localedata.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\nashorn.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\sunec.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\sunjce_provider.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\sunmscapi.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\sunpkcs11.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\ext\zipfs.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\javaws.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\jce.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\jfr.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\jfxswt.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\jsse.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\management-agent.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\plugin.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\resources.jar;C:\Dev\Java\jdk1.8.0_66\jre\lib\rt.jar;D:\Dev\PGCert-IT-Projects\industry_lab_09\out\production\industry_lab_09;C:\Dev\IntelliJ IDEA 2016.3.5\lib\idea_rt.jar" com.intellij.rt.execution.application.AppMain ictgradschool.industry.lab_collections.ex04.PancakeApp
+PancakeTopia has opened for lunch!
+We have 118 customers today, and have made 676 pancakes. Hope it's enough!
+Katelynn [1] sat at the table. They want to eat 2 pancakes for lunch!
+Katelynn [1] ate Pancake #676!
+Katelynn [1] ate Pancake #675!
+Katelynn [1] ate 2 pancakes in total!
+Katelynn [1] is happy and full!
+Ivonne [2] sat at the table. They want to eat 2 pancakes for lunch!
+Ivonne [2] ate Pancake #674!
+Ivonne [2] ate Pancake #673!
+Ivonne [2] ate 2 pancakes in total!
+Ivonne [2] is happy and full!
+Mary [3] sat at the table. They want to eat 7 pancakes for lunch!
+Mary [3] ate Pancake #672!
+Mary [3] ate Pancake #671!
+Mary [3] ate Pancake #670!
+Mary [3] ate Pancake #669!
+Mary [3] ate Pancake #668!
+Mary [3] ate Pancake #667!
+Mary [3] ate Pancake #666!
+Mary [3] ate 7 pancakes in total!
+Mary [3] is happy and full!
+Lilia [4] sat at the table. They want to eat 3 pancakes for lunch!
+Lilia [4] ate Pancake #665!
+Lilia [4] ate Pancake #664!
+Lilia [4] ate Pancake #663!
+Lilia [4] ate 3 pancakes in total!
+Lilia [4] is happy and full!
+Allene [5] sat at the table. They want to eat 4 pancakes for lunch!
+Allene [5] ate Pancake #662!
+Allene [5] ate Pancake #661!
+Allene [5] ate Pancake #660!
+Allene [5] ate Pancake #659!
+Allene [5] ate 4 pancakes in total!
+Allene [5] is happy and full!
+Karma [6] sat at the table. They want to eat 3 pancakes for lunch!
+Karma [6] ate Pancake #658!
+Karma [6] ate Pancake #657!
+Karma [6] ate Pancake #656!
+Karma [6] ate 3 pancakes in total!
+Karma [6] is happy and full!
+Peg [7] sat at the table. They want to eat 3 pancakes for lunch!
+Peg [7] ate Pancake #655!
+Peg [7] ate Pancake #654!
+Peg [7] ate Pancake #653!
+Peg [7] ate 3 pancakes in total!
+Peg [7] is happy and full!
+Allene [8] sat at the table. They want to eat 5 pancakes for lunch!
+Allene [8] ate Pancake #652!
+Allene [8] ate Pancake #651!
+Allene [8] ate Pancake #650!
+Allene [8] ate Pancake #649!
+Allene [8] ate Pancake #648!
+Allene [8] ate 5 pancakes in total!
+Allene [8] is happy and full!
+Verona [9] sat at the table. They want to eat 8 pancakes for lunch!
+Verona [9] ate Pancake #647!
+Verona [9] ate Pancake #646!
+Verona [9] ate Pancake #645!
+Verona [9] ate Pancake #644!
+Verona [9] ate Pancake #643!
+Verona [9] ate Pancake #642!
+Verona [9] ate Pancake #641!
+Verona [9] ate Pancake #640!
+Verona [9] ate 8 pancakes in total!
+Verona [9] is happy and full!
+Rowena [10] sat at the table. They want to eat 3 pancakes for lunch!
+Rowena [10] ate Pancake #639!
+Rowena [10] ate Pancake #638!
+Rowena [10] ate Pancake #637!
+Rowena [10] ate 3 pancakes in total!
+Rowena [10] is happy and full!
+Sharika [11] sat at the table. They want to eat 5 pancakes for lunch!
+Sharika [11] ate Pancake #636!
+Sharika [11] ate Pancake #635!
+Sharika [11] ate Pancake #634!
+Sharika [11] ate Pancake #633!
+Sharika [11] ate Pancake #632!
+Sharika [11] ate 5 pancakes in total!
+Sharika [11] is happy and full!
+Shakia [12] sat at the table. They want to eat 7 pancakes for lunch!
+Shakia [12] ate Pancake #631!
+Shakia [12] ate Pancake #630!
+Shakia [12] ate Pancake #629!
+Shakia [12] ate Pancake #628!
+Shakia [12] ate Pancake #627!
+Shakia [12] ate Pancake #626!
+Shakia [12] ate Pancake #625!
+Shakia [12] ate 7 pancakes in total!
+Shakia [12] is happy and full!
+Joey [13] sat at the table. They want to eat 2 pancakes for lunch!
+Joey [13] ate Pancake #624!
+Joey [13] ate Pancake #623!
+Joey [13] ate 2 pancakes in total!
+Joey [13] is happy and full!
+Deadra [14] sat at the table. They want to eat 9 pancakes for lunch!
+Deadra [14] ate Pancake #622!
+Deadra [14] ate Pancake #621!
+Deadra [14] ate Pancake #620!
+Deadra [14] ate Pancake #619!
+Deadra [14] ate Pancake #618!
+Deadra [14] ate Pancake #617!
+Deadra [14] ate Pancake #616!
+Deadra [14] ate Pancake #615!
+Deadra [14] ate Pancake #614!
+Deadra [14] ate 9 pancakes in total!
+Deadra [14] is happy and full!
+Arron [15] sat at the table. They want to eat 8 pancakes for lunch!
+Arron [15] ate Pancake #613!
+Arron [15] ate Pancake #612!
+Arron [15] ate Pancake #611!
+Arron [15] ate Pancake #610!
+Arron [15] ate Pancake #609!
+Arron [15] ate Pancake #608!
+Arron [15] ate Pancake #607!
+Arron [15] ate Pancake #606!
+Arron [15] ate 8 pancakes in total!
+Arron [15] is happy and full!
+Anette [16] sat at the table. They want to eat 5 pancakes for lunch!
+Anette [16] ate Pancake #605!
+Anette [16] ate Pancake #604!
+Anette [16] ate Pancake #603!
+Anette [16] ate Pancake #602!
+Anette [16] ate Pancake #601!
+Anette [16] ate 5 pancakes in total!
+Anette [16] is happy and full!
+Eldon [17] sat at the table. They want to eat 9 pancakes for lunch!
+Eldon [17] ate Pancake #600!
+Eldon [17] ate Pancake #599!
+Eldon [17] ate Pancake #598!
+Eldon [17] ate Pancake #597!
+Eldon [17] ate Pancake #596!
+Eldon [17] ate Pancake #595!
+Eldon [17] ate Pancake #594!
+Eldon [17] ate Pancake #593!
+Eldon [17] ate Pancake #592!
+Eldon [17] ate 9 pancakes in total!
+Eldon [17] is happy and full!
+Maurine [18] sat at the table. They want to eat 1 pancakes for lunch!
+Maurine [18] ate Pancake #591!
+Maurine [18] ate 1 pancakes in total!
+Maurine [18] is happy and full!
+Mercy [19] sat at the table. They want to eat 1 pancakes for lunch!
+Mercy [19] ate Pancake #590!
+Mercy [19] ate 1 pancakes in total!
+Mercy [19] is happy and full!
+Ward [20] sat at the table. They want to eat 1 pancakes for lunch!
+Ward [20] ate Pancake #589!
+Ward [20] ate 1 pancakes in total!
+Ward [20] is happy and full!
+Marianne [21] sat at the table. They want to eat 8 pancakes for lunch!
+Marianne [21] ate Pancake #588!
+Marianne [21] ate Pancake #587!
+Marianne [21] ate Pancake #586!
+Marianne [21] ate Pancake #585!
+Marianne [21] ate Pancake #584!
+Marianne [21] ate Pancake #583!
+Marianne [21] ate Pancake #582!
+Marianne [21] ate Pancake #581!
+Marianne [21] ate 8 pancakes in total!
+Marianne [21] is happy and full!
+Allene [22] sat at the table. They want to eat 2 pancakes for lunch!
+Allene [22] ate Pancake #580!
+Allene [22] ate Pancake #579!
+Allene [22] ate 2 pancakes in total!
+Allene [22] is happy and full!
+Thea [23] sat at the table. They want to eat 1 pancakes for lunch!
+Thea [23] ate Pancake #578!
+Thea [23] ate 1 pancakes in total!
+Thea [23] is happy and full!
+Maurine [24] sat at the table. They want to eat 6 pancakes for lunch!
+Maurine [24] ate Pancake #577!
+Maurine [24] ate Pancake #576!
+Maurine [24] ate Pancake #575!
+Maurine [24] ate Pancake #574!
+Maurine [24] ate Pancake #573!
+Maurine [24] ate Pancake #572!
+Maurine [24] ate 6 pancakes in total!
+Maurine [24] is happy and full!
+Krystal [25] sat at the table. They want to eat 1 pancakes for lunch!
+Krystal [25] ate Pancake #571!
+Krystal [25] ate 1 pancakes in total!
+Krystal [25] is happy and full!
+Chuck [26] sat at the table. They want to eat 10 pancakes for lunch!
+Chuck [26] ate Pancake #570!
+Chuck [26] ate Pancake #569!
+Chuck [26] ate Pancake #568!
+Chuck [26] ate Pancake #567!
+Chuck [26] ate Pancake #566!
+Chuck [26] ate Pancake #565!
+Chuck [26] ate Pancake #564!
+Chuck [26] ate Pancake #563!
+Chuck [26] ate Pancake #562!
+Chuck [26] ate Pancake #561!
+Chuck [26] ate 10 pancakes in total!
+Chuck [26] is happy and full!
+Maritza [27] sat at the table. They want to eat 2 pancakes for lunch!
+Maritza [27] ate Pancake #560!
+Maritza [27] ate Pancake #559!
+Maritza [27] ate 2 pancakes in total!
+Maritza [27] is happy and full!
+Neoma [28] sat at the table. They want to eat 3 pancakes for lunch!
+Neoma [28] ate Pancake #558!
+Neoma [28] ate Pancake #557!
+Neoma [28] ate Pancake #556!
+Neoma [28] ate 3 pancakes in total!
+Neoma [28] is happy and full!
+Marinda [29] sat at the table. They want to eat 6 pancakes for lunch!
+Marinda [29] ate Pancake #555!
+Marinda [29] ate Pancake #554!
+Marinda [29] ate Pancake #553!
+Marinda [29] ate Pancake #552!
+Marinda [29] ate Pancake #551!
+Marinda [29] ate Pancake #550!
+Marinda [29] ate 6 pancakes in total!
+Marinda [29] is happy and full!
+Vivian [30] sat at the table. They want to eat 4 pancakes for lunch!
+Vivian [30] ate Pancake #549!
+Vivian [30] ate Pancake #548!
+Vivian [30] ate Pancake #547!
+Vivian [30] ate Pancake #546!
+Vivian [30] ate 4 pancakes in total!
+Vivian [30] is happy and full!
+Chuck [31] sat at the table. They want to eat 2 pancakes for lunch!
+Chuck [31] ate Pancake #545!
+Chuck [31] ate Pancake #544!
+Chuck [31] ate 2 pancakes in total!
+Chuck [31] is happy and full!
+Catina [32] sat at the table. They want to eat 8 pancakes for lunch!
+Catina [32] ate Pancake #543!
+Catina [32] ate Pancake #542!
+Catina [32] ate Pancake #541!
+Catina [32] ate Pancake #540!
+Catina [32] ate Pancake #539!
+Catina [32] ate Pancake #538!
+Catina [32] ate Pancake #537!
+Catina [32] ate Pancake #536!
+Catina [32] ate 8 pancakes in total!
+Catina [32] is happy and full!
+Rosy [33] sat at the table. They want to eat 3 pancakes for lunch!
+Rosy [33] ate Pancake #535!
+Rosy [33] ate Pancake #534!
+Rosy [33] ate Pancake #533!
+Rosy [33] ate 3 pancakes in total!
+Rosy [33] is happy and full!
+Vivian [34] sat at the table. They want to eat 7 pancakes for lunch!
+Vivian [34] ate Pancake #532!
+Vivian [34] ate Pancake #531!
+Vivian [34] ate Pancake #530!
+Vivian [34] ate Pancake #529!
+Vivian [34] ate Pancake #528!
+Vivian [34] ate Pancake #527!
+Vivian [34] ate Pancake #526!
+Vivian [34] ate 7 pancakes in total!
+Vivian [34] is happy and full!
+Tracee [35] sat at the table. They want to eat 9 pancakes for lunch!
+Tracee [35] ate Pancake #525!
+Tracee [35] ate Pancake #524!
+Tracee [35] ate Pancake #523!
+Tracee [35] ate Pancake #522!
+Tracee [35] ate Pancake #521!
+Tracee [35] ate Pancake #520!
+Tracee [35] ate Pancake #519!
+Tracee [35] ate Pancake #518!
+Tracee [35] ate Pancake #517!
+Tracee [35] ate 9 pancakes in total!
+Tracee [35] is happy and full!
+Katelynn [36] sat at the table. They want to eat 7 pancakes for lunch!
+Katelynn [36] ate Pancake #516!
+Katelynn [36] ate Pancake #515!
+Katelynn [36] ate Pancake #514!
+Katelynn [36] ate Pancake #513!
+Katelynn [36] ate Pancake #512!
+Katelynn [36] ate Pancake #511!
+Katelynn [36] ate Pancake #510!
+Katelynn [36] ate 7 pancakes in total!
+Katelynn [36] is happy and full!
+Eric [37] sat at the table. They want to eat 7 pancakes for lunch!
+Eric [37] ate Pancake #509!
+Eric [37] ate Pancake #508!
+Eric [37] ate Pancake #507!
+Eric [37] ate Pancake #506!
+Eric [37] ate Pancake #505!
+Eric [37] ate Pancake #504!
+Eric [37] ate Pancake #503!
+Eric [37] ate 7 pancakes in total!
+Eric [37] is happy and full!
+Kesha [38] sat at the table. They want to eat 8 pancakes for lunch!
+Kesha [38] ate Pancake #502!
+Kesha [38] ate Pancake #501!
+Kesha [38] ate Pancake #500!
+Kesha [38] ate Pancake #499!
+Kesha [38] ate Pancake #498!
+Kesha [38] ate Pancake #497!
+Kesha [38] ate Pancake #496!
+Kesha [38] ate Pancake #495!
+Kesha [38] ate 8 pancakes in total!
+Kesha [38] is happy and full!
+Merissa [39] sat at the table. They want to eat 5 pancakes for lunch!
+Merissa [39] ate Pancake #494!
+Merissa [39] ate Pancake #493!
+Merissa [39] ate Pancake #492!
+Merissa [39] ate Pancake #491!
+Merissa [39] ate Pancake #490!
+Merissa [39] ate 5 pancakes in total!
+Merissa [39] is happy and full!
+Elna [40] sat at the table. They want to eat 9 pancakes for lunch!
+Elna [40] ate Pancake #489!
+Elna [40] ate Pancake #488!
+Elna [40] ate Pancake #487!
+Elna [40] ate Pancake #486!
+Elna [40] ate Pancake #485!
+Elna [40] ate Pancake #484!
+Elna [40] ate Pancake #483!
+Elna [40] ate Pancake #482!
+Elna [40] ate Pancake #481!
+Elna [40] ate 9 pancakes in total!
+Elna [40] is happy and full!
+Melaine [41] sat at the table. They want to eat 6 pancakes for lunch!
+Melaine [41] ate Pancake #480!
+Melaine [41] ate Pancake #479!
+Melaine [41] ate Pancake #478!
+Melaine [41] ate Pancake #477!
+Melaine [41] ate Pancake #476!
+Melaine [41] ate Pancake #475!
+Melaine [41] ate 6 pancakes in total!
+Melaine [41] is happy and full!
+Shakia [42] sat at the table. They want to eat 9 pancakes for lunch!
+Shakia [42] ate Pancake #474!
+Shakia [42] ate Pancake #473!
+Shakia [42] ate Pancake #472!
+Shakia [42] ate Pancake #471!
+Shakia [42] ate Pancake #470!
+Shakia [42] ate Pancake #469!
+Shakia [42] ate Pancake #468!
+Shakia [42] ate Pancake #467!
+Shakia [42] ate Pancake #466!
+Shakia [42] ate 9 pancakes in total!
+Shakia [42] is happy and full!
+Tracee [43] sat at the table. They want to eat 4 pancakes for lunch!
+Tracee [43] ate Pancake #465!
+Tracee [43] ate Pancake #464!
+Tracee [43] ate Pancake #463!
+Tracee [43] ate Pancake #462!
+Tracee [43] ate 4 pancakes in total!
+Tracee [43] is happy and full!
+Manuela [44] sat at the table. They want to eat 7 pancakes for lunch!
+Manuela [44] ate Pancake #461!
+Manuela [44] ate Pancake #460!
+Manuela [44] ate Pancake #459!
+Manuela [44] ate Pancake #458!
+Manuela [44] ate Pancake #457!
+Manuela [44] ate Pancake #456!
+Manuela [44] ate Pancake #455!
+Manuela [44] ate 7 pancakes in total!
+Manuela [44] is happy and full!
+Kaleigh [45] sat at the table. They want to eat 3 pancakes for lunch!
+Kaleigh [45] ate Pancake #454!
+Kaleigh [45] ate Pancake #453!
+Kaleigh [45] ate Pancake #452!
+Kaleigh [45] ate 3 pancakes in total!
+Kaleigh [45] is happy and full!
+Ivonne [46] sat at the table. They want to eat 2 pancakes for lunch!
+Ivonne [46] ate Pancake #451!
+Ivonne [46] ate Pancake #450!
+Ivonne [46] ate 2 pancakes in total!
+Ivonne [46] is happy and full!
+Melony [47] sat at the table. They want to eat 1 pancakes for lunch!
+Melony [47] ate Pancake #449!
+Melony [47] ate 1 pancakes in total!
+Melony [47] is happy and full!
+Saundra [48] sat at the table. They want to eat 3 pancakes for lunch!
+Saundra [48] ate Pancake #448!
+Saundra [48] ate Pancake #447!
+Saundra [48] ate Pancake #446!
+Saundra [48] ate 3 pancakes in total!
+Saundra [48] is happy and full!
+Christiane [49] sat at the table. They want to eat 2 pancakes for lunch!
+Christiane [49] ate Pancake #445!
+Christiane [49] ate Pancake #444!
+Christiane [49] ate 2 pancakes in total!
+Christiane [49] is happy and full!
+Shelly [50] sat at the table. They want to eat 4 pancakes for lunch!
+Shelly [50] ate Pancake #443!
+Shelly [50] ate Pancake #442!
+Shelly [50] ate Pancake #441!
+Shelly [50] ate Pancake #440!
+Shelly [50] ate 4 pancakes in total!
+Shelly [50] is happy and full!
+Steven [51] sat at the table. They want to eat 10 pancakes for lunch!
+Steven [51] ate Pancake #439!
+Steven [51] ate Pancake #438!
+Steven [51] ate Pancake #437!
+Steven [51] ate Pancake #436!
+Steven [51] ate Pancake #435!
+Steven [51] ate Pancake #434!
+Steven [51] ate Pancake #433!
+Steven [51] ate Pancake #432!
+Steven [51] ate Pancake #431!
+Steven [51] ate Pancake #430!
+Steven [51] ate 10 pancakes in total!
+Steven [51] is happy and full!
+Neoma [52] sat at the table. They want to eat 6 pancakes for lunch!
+Neoma [52] ate Pancake #429!
+Neoma [52] ate Pancake #428!
+Neoma [52] ate Pancake #427!
+Neoma [52] ate Pancake #426!
+Neoma [52] ate Pancake #425!
+Neoma [52] ate Pancake #424!
+Neoma [52] ate 6 pancakes in total!
+Neoma [52] is happy and full!
+Johnsie [53] sat at the table. They want to eat 3 pancakes for lunch!
+Johnsie [53] ate Pancake #423!
+Johnsie [53] ate Pancake #422!
+Johnsie [53] ate Pancake #421!
+Johnsie [53] ate 3 pancakes in total!
+Johnsie [53] is happy and full!
+Heidy [54] sat at the table. They want to eat 6 pancakes for lunch!
+Heidy [54] ate Pancake #420!
+Heidy [54] ate Pancake #419!
+Heidy [54] ate Pancake #418!
+Heidy [54] ate Pancake #417!
+Heidy [54] ate Pancake #416!
+Heidy [54] ate Pancake #415!
+Heidy [54] ate 6 pancakes in total!
+Heidy [54] is happy and full!
+Saundra [55] sat at the table. They want to eat 4 pancakes for lunch!
+Saundra [55] ate Pancake #414!
+Saundra [55] ate Pancake #413!
+Saundra [55] ate Pancake #412!
+Saundra [55] ate Pancake #411!
+Saundra [55] ate 4 pancakes in total!
+Saundra [55] is happy and full!
+Mikel [56] sat at the table. They want to eat 7 pancakes for lunch!
+Mikel [56] ate Pancake #410!
+Mikel [56] ate Pancake #409!
+Mikel [56] ate Pancake #408!
+Mikel [56] ate Pancake #407!
+Mikel [56] ate Pancake #406!
+Mikel [56] ate Pancake #405!
+Mikel [56] ate Pancake #404!
+Mikel [56] ate 7 pancakes in total!
+Mikel [56] is happy and full!
+Bronwyn [57] sat at the table. They want to eat 6 pancakes for lunch!
+Bronwyn [57] ate Pancake #403!
+Bronwyn [57] ate Pancake #402!
+Bronwyn [57] ate Pancake #401!
+Bronwyn [57] ate Pancake #400!
+Bronwyn [57] ate Pancake #399!
+Bronwyn [57] ate Pancake #398!
+Bronwyn [57] ate 6 pancakes in total!
+Bronwyn [57] is happy and full!
+Wynell [58] sat at the table. They want to eat 6 pancakes for lunch!
+Wynell [58] ate Pancake #397!
+Wynell [58] ate Pancake #396!
+Wynell [58] ate Pancake #395!
+Wynell [58] ate Pancake #394!
+Wynell [58] ate Pancake #393!
+Wynell [58] ate Pancake #392!
+Wynell [58] ate 6 pancakes in total!
+Wynell [58] is happy and full!
+Enrique [59] sat at the table. They want to eat 3 pancakes for lunch!
+Enrique [59] ate Pancake #391!
+Enrique [59] ate Pancake #390!
+Enrique [59] ate Pancake #389!
+Enrique [59] ate 3 pancakes in total!
+Enrique [59] is happy and full!
+Deadra [60] sat at the table. They want to eat 2 pancakes for lunch!
+Deadra [60] ate Pancake #388!
+Deadra [60] ate Pancake #387!
+Deadra [60] ate 2 pancakes in total!
+Deadra [60] is happy and full!
+Johnsie [61] sat at the table. They want to eat 7 pancakes for lunch!
+Johnsie [61] ate Pancake #386!
+Johnsie [61] ate Pancake #385!
+Johnsie [61] ate Pancake #384!
+Johnsie [61] ate Pancake #383!
+Johnsie [61] ate Pancake #382!
+Johnsie [61] ate Pancake #381!
+Johnsie [61] ate Pancake #380!
+Johnsie [61] ate 7 pancakes in total!
+Johnsie [61] is happy and full!
+Edda [62] sat at the table. They want to eat 3 pancakes for lunch!
+Edda [62] ate Pancake #379!
+Edda [62] ate Pancake #378!
+Edda [62] ate Pancake #377!
+Edda [62] ate 3 pancakes in total!
+Edda [62] is happy and full!
+Charlott [63] sat at the table. They want to eat 10 pancakes for lunch!
+Charlott [63] ate Pancake #376!
+Charlott [63] ate Pancake #375!
+Charlott [63] ate Pancake #374!
+Charlott [63] ate Pancake #373!
+Charlott [63] ate Pancake #372!
+Charlott [63] ate Pancake #371!
+Charlott [63] ate Pancake #370!
+Charlott [63] ate Pancake #369!
+Charlott [63] ate Pancake #368!
+Charlott [63] ate Pancake #367!
+Charlott [63] ate 10 pancakes in total!
+Charlott [63] is happy and full!
+Newton [64] sat at the table. They want to eat 3 pancakes for lunch!
+Newton [64] ate Pancake #366!
+Newton [64] ate Pancake #365!
+Newton [64] ate Pancake #364!
+Newton [64] ate 3 pancakes in total!
+Newton [64] is happy and full!
+Marielle [65] sat at the table. They want to eat 5 pancakes for lunch!
+Marielle [65] ate Pancake #363!
+Marielle [65] ate Pancake #362!
+Marielle [65] ate Pancake #361!
+Marielle [65] ate Pancake #360!
+Marielle [65] ate Pancake #359!
+Marielle [65] ate 5 pancakes in total!
+Marielle [65] is happy and full!
+Manuela [66] sat at the table. They want to eat 1 pancakes for lunch!
+Manuela [66] ate Pancake #358!
+Manuela [66] ate 1 pancakes in total!
+Manuela [66] is happy and full!
+Everett [67] sat at the table. They want to eat 7 pancakes for lunch!
+Everett [67] ate Pancake #357!
+Everett [67] ate Pancake #356!
+Everett [67] ate Pancake #355!
+Everett [67] ate Pancake #354!
+Everett [67] ate Pancake #353!
+Everett [67] ate Pancake #352!
+Everett [67] ate Pancake #351!
+Everett [67] ate 7 pancakes in total!
+Everett [67] is happy and full!
+Heather [68] sat at the table. They want to eat 7 pancakes for lunch!
+Heather [68] ate Pancake #350!
+Heather [68] ate Pancake #349!
+Heather [68] ate Pancake #348!
+Heather [68] ate Pancake #347!
+Heather [68] ate Pancake #346!
+Heather [68] ate Pancake #345!
+Heather [68] ate Pancake #344!
+Heather [68] ate 7 pancakes in total!
+Heather [68] is happy and full!
+Carri [69] sat at the table. They want to eat 7 pancakes for lunch!
+Carri [69] ate Pancake #343!
+Carri [69] ate Pancake #342!
+Carri [69] ate Pancake #341!
+Carri [69] ate Pancake #340!
+Carri [69] ate Pancake #339!
+Carri [69] ate Pancake #338!
+Carri [69] ate Pancake #337!
+Carri [69] ate 7 pancakes in total!
+Carri [69] is happy and full!
+Sharika [70] sat at the table. They want to eat 4 pancakes for lunch!
+Sharika [70] ate Pancake #336!
+Sharika [70] ate Pancake #335!
+Sharika [70] ate Pancake #334!
+Sharika [70] ate Pancake #333!
+Sharika [70] ate 4 pancakes in total!
+Sharika [70] is happy and full!
+Charissa [71] sat at the table. They want to eat 10 pancakes for lunch!
+Charissa [71] ate Pancake #332!
+Charissa [71] ate Pancake #331!
+Charissa [71] ate Pancake #330!
+Charissa [71] ate Pancake #329!
+Charissa [71] ate Pancake #328!
+Charissa [71] ate Pancake #327!
+Charissa [71] ate Pancake #326!
+Charissa [71] ate Pancake #325!
+Charissa [71] ate Pancake #324!
+Charissa [71] ate Pancake #323!
+Charissa [71] ate 10 pancakes in total!
+Charissa [71] is happy and full!
+Kaleigh [72] sat at the table. They want to eat 7 pancakes for lunch!
+Kaleigh [72] ate Pancake #322!
+Kaleigh [72] ate Pancake #321!
+Kaleigh [72] ate Pancake #320!
+Kaleigh [72] ate Pancake #319!
+Kaleigh [72] ate Pancake #318!
+Kaleigh [72] ate Pancake #317!
+Kaleigh [72] ate Pancake #316!
+Kaleigh [72] ate 7 pancakes in total!
+Kaleigh [72] is happy and full!
+Scottie [73] sat at the table. They want to eat 9 pancakes for lunch!
+Scottie [73] ate Pancake #315!
+Scottie [73] ate Pancake #314!
+Scottie [73] ate Pancake #313!
+Scottie [73] ate Pancake #312!
+Scottie [73] ate Pancake #311!
+Scottie [73] ate Pancake #310!
+Scottie [73] ate Pancake #309!
+Scottie [73] ate Pancake #308!
+Scottie [73] ate Pancake #307!
+Scottie [73] ate 9 pancakes in total!
+Scottie [73] is happy and full!
+Arletha [74] sat at the table. They want to eat 7 pancakes for lunch!
+Arletha [74] ate Pancake #306!
+Arletha [74] ate Pancake #305!
+Arletha [74] ate Pancake #304!
+Arletha [74] ate Pancake #303!
+Arletha [74] ate Pancake #302!
+Arletha [74] ate Pancake #301!
+Arletha [74] ate Pancake #300!
+Arletha [74] ate 7 pancakes in total!
+Arletha [74] is happy and full!
+Wai [75] sat at the table. They want to eat 3 pancakes for lunch!
+Wai [75] ate Pancake #299!
+Wai [75] ate Pancake #298!
+Wai [75] ate Pancake #297!
+Wai [75] ate 3 pancakes in total!
+Wai [75] is happy and full!
+Migdalia [76] sat at the table. They want to eat 3 pancakes for lunch!
+Migdalia [76] ate Pancake #296!
+Migdalia [76] ate Pancake #295!
+Migdalia [76] ate Pancake #294!
+Migdalia [76] ate 3 pancakes in total!
+Migdalia [76] is happy and full!
+Annabel [77] sat at the table. They want to eat 8 pancakes for lunch!
+Annabel [77] ate Pancake #293!
+Annabel [77] ate Pancake #292!
+Annabel [77] ate Pancake #291!
+Annabel [77] ate Pancake #290!
+Annabel [77] ate Pancake #289!
+Annabel [77] ate Pancake #288!
+Annabel [77] ate Pancake #287!
+Annabel [77] ate Pancake #286!
+Annabel [77] ate 8 pancakes in total!
+Annabel [77] is happy and full!
+Florinda [78] sat at the table. They want to eat 4 pancakes for lunch!
+Florinda [78] ate Pancake #285!
+Florinda [78] ate Pancake #284!
+Florinda [78] ate Pancake #283!
+Florinda [78] ate Pancake #282!
+Florinda [78] ate 4 pancakes in total!
+Florinda [78] is happy and full!
+Antonette [79] sat at the table. They want to eat 2 pancakes for lunch!
+Antonette [79] ate Pancake #281!
+Antonette [79] ate Pancake #280!
+Antonette [79] ate 2 pancakes in total!
+Antonette [79] is happy and full!
+Edda [80] sat at the table. They want to eat 4 pancakes for lunch!
+Edda [80] ate Pancake #279!
+Edda [80] ate Pancake #278!
+Edda [80] ate Pancake #277!
+Edda [80] ate Pancake #276!
+Edda [80] ate 4 pancakes in total!
+Edda [80] is happy and full!
+Elfreda [81] sat at the table. They want to eat 3 pancakes for lunch!
+Elfreda [81] ate Pancake #275!
+Elfreda [81] ate Pancake #274!
+Elfreda [81] ate Pancake #273!
+Elfreda [81] ate 3 pancakes in total!
+Elfreda [81] is happy and full!
+Raguel [82] sat at the table. They want to eat 5 pancakes for lunch!
+Raguel [82] ate Pancake #272!
+Raguel [82] ate Pancake #271!
+Raguel [82] ate Pancake #270!
+Raguel [82] ate Pancake #269!
+Raguel [82] ate Pancake #268!
+Raguel [82] ate 5 pancakes in total!
+Raguel [82] is happy and full!
+Jasper [83] sat at the table. They want to eat 1 pancakes for lunch!
+Jasper [83] ate Pancake #267!
+Jasper [83] ate 1 pancakes in total!
+Jasper [83] is happy and full!
+Daron [84] sat at the table. They want to eat 5 pancakes for lunch!
+Daron [84] ate Pancake #266!
+Daron [84] ate Pancake #265!
+Daron [84] ate Pancake #264!
+Daron [84] ate Pancake #263!
+Daron [84] ate Pancake #262!
+Daron [84] ate 5 pancakes in total!
+Daron [84] is happy and full!
+Dwayne [85] sat at the table. They want to eat 10 pancakes for lunch!
+Dwayne [85] ate Pancake #261!
+Dwayne [85] ate Pancake #260!
+Dwayne [85] ate Pancake #259!
+Dwayne [85] ate Pancake #258!
+Dwayne [85] ate Pancake #257!
+Dwayne [85] ate Pancake #256!
+Dwayne [85] ate Pancake #255!
+Dwayne [85] ate Pancake #254!
+Dwayne [85] ate Pancake #253!
+Dwayne [85] ate Pancake #252!
+Dwayne [85] ate 10 pancakes in total!
+Dwayne [85] is happy and full!
+Edda [86] sat at the table. They want to eat 9 pancakes for lunch!
+Edda [86] ate Pancake #251!
+Edda [86] ate Pancake #250!
+Edda [86] ate Pancake #249!
+Edda [86] ate Pancake #248!
+Edda [86] ate Pancake #247!
+Edda [86] ate Pancake #246!
+Edda [86] ate Pancake #245!
+Edda [86] ate Pancake #244!
+Edda [86] ate Pancake #243!
+Edda [86] ate 9 pancakes in total!
+Edda [86] is happy and full!
+Fredricka [87] sat at the table. They want to eat 7 pancakes for lunch!
+Fredricka [87] ate Pancake #242!
+Fredricka [87] ate Pancake #241!
+Fredricka [87] ate Pancake #240!
+Fredricka [87] ate Pancake #239!
+Fredricka [87] ate Pancake #238!
+Fredricka [87] ate Pancake #237!
+Fredricka [87] ate Pancake #236!
+Fredricka [87] ate 7 pancakes in total!
+Fredricka [87] is happy and full!
+Kirk [88] sat at the table. They want to eat 8 pancakes for lunch!
+Kirk [88] ate Pancake #235!
+Kirk [88] ate Pancake #234!
+Kirk [88] ate Pancake #233!
+Kirk [88] ate Pancake #232!
+Kirk [88] ate Pancake #231!
+Kirk [88] ate Pancake #230!
+Kirk [88] ate Pancake #229!
+Kirk [88] ate Pancake #228!
+Kirk [88] ate 8 pancakes in total!
+Kirk [88] is happy and full!
+Roman [89] sat at the table. They want to eat 8 pancakes for lunch!
+Roman [89] ate Pancake #227!
+Roman [89] ate Pancake #226!
+Roman [89] ate Pancake #225!
+Roman [89] ate Pancake #224!
+Roman [89] ate Pancake #223!
+Roman [89] ate Pancake #222!
+Roman [89] ate Pancake #221!
+Roman [89] ate Pancake #220!
+Roman [89] ate 8 pancakes in total!
+Roman [89] is happy and full!
+Marcie [90] sat at the table. They want to eat 7 pancakes for lunch!
+Marcie [90] ate Pancake #219!
+Marcie [90] ate Pancake #218!
+Marcie [90] ate Pancake #217!
+Marcie [90] ate Pancake #216!
+Marcie [90] ate Pancake #215!
+Marcie [90] ate Pancake #214!
+Marcie [90] ate Pancake #213!
+Marcie [90] ate 7 pancakes in total!
+Marcie [90] is happy and full!
+Annabel [91] sat at the table. They want to eat 2 pancakes for lunch!
+Annabel [91] ate Pancake #212!
+Annabel [91] ate Pancake #211!
+Annabel [91] ate 2 pancakes in total!
+Annabel [91] is happy and full!
+Maurine [92] sat at the table. They want to eat 8 pancakes for lunch!
+Maurine [92] ate Pancake #210!
+Maurine [92] ate Pancake #209!
+Maurine [92] ate Pancake #208!
+Maurine [92] ate Pancake #207!
+Maurine [92] ate Pancake #206!
+Maurine [92] ate Pancake #205!
+Maurine [92] ate Pancake #204!
+Maurine [92] ate Pancake #203!
+Maurine [92] ate 8 pancakes in total!
+Maurine [92] is happy and full!
+Shoshana [93] sat at the table. They want to eat 10 pancakes for lunch!
+Shoshana [93] ate Pancake #202!
+Shoshana [93] ate Pancake #201!
+Shoshana [93] ate Pancake #200!
+Shoshana [93] ate Pancake #199!
+Shoshana [93] ate Pancake #198!
+Shoshana [93] ate Pancake #197!
+Shoshana [93] ate Pancake #196!
+Shoshana [93] ate Pancake #195!
+Shoshana [93] ate Pancake #194!
+Shoshana [93] ate Pancake #193!
+Shoshana [93] ate 10 pancakes in total!
+Shoshana [93] is happy and full!
+Brandon [94] sat at the table. They want to eat 2 pancakes for lunch!
+Brandon [94] ate Pancake #192!
+Brandon [94] ate Pancake #191!
+Brandon [94] ate 2 pancakes in total!
+Brandon [94] is happy and full!
+Heather [95] sat at the table. They want to eat 1 pancakes for lunch!
+Heather [95] ate Pancake #190!
+Heather [95] ate 1 pancakes in total!
+Heather [95] is happy and full!
+Florinda [96] sat at the table. They want to eat 9 pancakes for lunch!
+Florinda [96] ate Pancake #189!
+Florinda [96] ate Pancake #188!
+Florinda [96] ate Pancake #187!
+Florinda [96] ate Pancake #186!
+Florinda [96] ate Pancake #185!
+Florinda [96] ate Pancake #184!
+Florinda [96] ate Pancake #183!
+Florinda [96] ate Pancake #182!
+Florinda [96] ate Pancake #181!
+Florinda [96] ate 9 pancakes in total!
+Florinda [96] is happy and full!
+Shakia [97] sat at the table. They want to eat 3 pancakes for lunch!
+Shakia [97] ate Pancake #180!
+Shakia [97] ate Pancake #179!
+Shakia [97] ate Pancake #178!
+Shakia [97] ate 3 pancakes in total!
+Shakia [97] is happy and full!
+Lachelle [98] sat at the table. They want to eat 9 pancakes for lunch!
+Lachelle [98] ate Pancake #177!
+Lachelle [98] ate Pancake #176!
+Lachelle [98] ate Pancake #175!
+Lachelle [98] ate Pancake #174!
+Lachelle [98] ate Pancake #173!
+Lachelle [98] ate Pancake #172!
+Lachelle [98] ate Pancake #171!
+Lachelle [98] ate Pancake #170!
+Lachelle [98] ate Pancake #169!
+Lachelle [98] ate 9 pancakes in total!
+Lachelle [98] is happy and full!
+Joanie [99] sat at the table. They want to eat 5 pancakes for lunch!
+Joanie [99] ate Pancake #168!
+Joanie [99] ate Pancake #167!
+Joanie [99] ate Pancake #166!
+Joanie [99] ate Pancake #165!
+Joanie [99] ate Pancake #164!
+Joanie [99] ate 5 pancakes in total!
+Joanie [99] is happy and full!
+Lucien [100] sat at the table. They want to eat 10 pancakes for lunch!
+Lucien [100] ate Pancake #163!
+Lucien [100] ate Pancake #162!
+Lucien [100] ate Pancake #161!
+Lucien [100] ate Pancake #160!
+Lucien [100] ate Pancake #159!
+Lucien [100] ate Pancake #158!
+Lucien [100] ate Pancake #157!
+Lucien [100] ate Pancake #156!
+Lucien [100] ate Pancake #155!
+Lucien [100] ate Pancake #154!
+Lucien [100] ate 10 pancakes in total!
+Lucien [100] is happy and full!
+Rowena [101] sat at the table. They want to eat 2 pancakes for lunch!
+Rowena [101] ate Pancake #153!
+Rowena [101] ate Pancake #152!
+Rowena [101] ate 2 pancakes in total!
+Rowena [101] is happy and full!
+Luciana [102] sat at the table. They want to eat 5 pancakes for lunch!
+Luciana [102] ate Pancake #151!
+Luciana [102] ate Pancake #150!
+Luciana [102] ate Pancake #149!
+Luciana [102] ate Pancake #148!
+Luciana [102] ate Pancake #147!
+Luciana [102] ate 5 pancakes in total!
+Luciana [102] is happy and full!
+Catina [103] sat at the table. They want to eat 2 pancakes for lunch!
+Catina [103] ate Pancake #146!
+Catina [103] ate Pancake #145!
+Catina [103] ate 2 pancakes in total!
+Catina [103] is happy and full!
+Bettyann [104] sat at the table. They want to eat 4 pancakes for lunch!
+Bettyann [104] ate Pancake #144!
+Bettyann [104] ate Pancake #143!
+Bettyann [104] ate Pancake #142!
+Bettyann [104] ate Pancake #141!
+Bettyann [104] ate 4 pancakes in total!
+Bettyann [104] is happy and full!
+Reyna [105] sat at the table. They want to eat 10 pancakes for lunch!
+Reyna [105] ate Pancake #140!
+Reyna [105] ate Pancake #139!
+Reyna [105] ate Pancake #138!
+Reyna [105] ate Pancake #137!
+Reyna [105] ate Pancake #136!
+Reyna [105] ate Pancake #135!
+Reyna [105] ate Pancake #134!
+Reyna [105] ate Pancake #133!
+Reyna [105] ate Pancake #132!
+Reyna [105] ate Pancake #131!
+Reyna [105] ate 10 pancakes in total!
+Reyna [105] is happy and full!
+Margorie [106] sat at the table. They want to eat 5 pancakes for lunch!
+Margorie [106] ate Pancake #130!
+Margorie [106] ate Pancake #129!
+Margorie [106] ate Pancake #128!
+Margorie [106] ate Pancake #127!
+Margorie [106] ate Pancake #126!
+Margorie [106] ate 5 pancakes in total!
+Margorie [106] is happy and full!
+Genevieve [107] sat at the table. They want to eat 2 pancakes for lunch!
+Genevieve [107] ate Pancake #125!
+Genevieve [107] ate Pancake #124!
+Genevieve [107] ate 2 pancakes in total!
+Genevieve [107] is happy and full!
+Mirna [108] sat at the table. They want to eat 10 pancakes for lunch!
+Mirna [108] ate Pancake #123!
+Mirna [108] ate Pancake #122!
+Mirna [108] ate Pancake #121!
+Mirna [108] ate Pancake #120!
+Mirna [108] ate Pancake #119!
+Mirna [108] ate Pancake #118!
+Mirna [108] ate Pancake #117!
+Mirna [108] ate Pancake #116!
+Mirna [108] ate Pancake #115!
+Mirna [108] ate Pancake #114!
+Mirna [108] ate 10 pancakes in total!
+Mirna [108] is happy and full!
+Felton [109] sat at the table. They want to eat 4 pancakes for lunch!
+Felton [109] ate Pancake #113!
+Felton [109] ate Pancake #112!
+Felton [109] ate Pancake #111!
+Felton [109] ate Pancake #110!
+Felton [109] ate 4 pancakes in total!
+Felton [109] is happy and full!
+Gerald [110] sat at the table. They want to eat 7 pancakes for lunch!
+Gerald [110] ate Pancake #109!
+Gerald [110] ate Pancake #108!
+Gerald [110] ate Pancake #107!
+Gerald [110] ate Pancake #106!
+Gerald [110] ate Pancake #105!
+Gerald [110] ate Pancake #104!
+Gerald [110] ate Pancake #103!
+Gerald [110] ate 7 pancakes in total!
+Gerald [110] is happy and full!
+Christiana [111] sat at the table. They want to eat 10 pancakes for lunch!
+Christiana [111] ate Pancake #102!
+Christiana [111] ate Pancake #101!
+Christiana [111] ate Pancake #100!
+Christiana [111] ate Pancake #99!
+Christiana [111] ate Pancake #98!
+Christiana [111] ate Pancake #97!
+Christiana [111] ate Pancake #96!
+Christiana [111] ate Pancake #95!
+Christiana [111] ate Pancake #94!
+Christiana [111] ate Pancake #93!
+Christiana [111] ate 10 pancakes in total!
+Christiana [111] is happy and full!
+Lakita [112] sat at the table. They want to eat 10 pancakes for lunch!
+Lakita [112] ate Pancake #92!
+Lakita [112] ate Pancake #91!
+Lakita [112] ate Pancake #90!
+Lakita [112] ate Pancake #89!
+Lakita [112] ate Pancake #88!
+Lakita [112] ate Pancake #87!
+Lakita [112] ate Pancake #86!
+Lakita [112] ate Pancake #85!
+Lakita [112] ate Pancake #84!
+Lakita [112] ate Pancake #83!
+Lakita [112] ate 10 pancakes in total!
+Lakita [112] is happy and full!
+Nestor [113] sat at the table. They want to eat 5 pancakes for lunch!
+Nestor [113] ate Pancake #82!
+Nestor [113] ate Pancake #81!
+Nestor [113] ate Pancake #80!
+Nestor [113] ate Pancake #79!
+Nestor [113] ate Pancake #78!
+Nestor [113] ate 5 pancakes in total!
+Nestor [113] is happy and full!
+Merissa [114] sat at the table. They want to eat 10 pancakes for lunch!
+Merissa [114] ate Pancake #77!
+Merissa [114] ate Pancake #76!
+Merissa [114] ate Pancake #75!
+Merissa [114] ate Pancake #74!
+Merissa [114] ate Pancake #73!
+Merissa [114] ate Pancake #72!
+Merissa [114] ate Pancake #71!
+Merissa [114] ate Pancake #70!
+Merissa [114] ate Pancake #69!
+Merissa [114] ate Pancake #68!
+Merissa [114] ate 10 pancakes in total!
+Merissa [114] is happy and full!
+Kirk [115] sat at the table. They want to eat 6 pancakes for lunch!
+Kirk [115] ate Pancake #67!
+Kirk [115] ate Pancake #66!
+Kirk [115] ate Pancake #65!
+Kirk [115] ate Pancake #64!
+Kirk [115] ate Pancake #63!
+Kirk [115] ate Pancake #62!
+Kirk [115] ate 6 pancakes in total!
+Kirk [115] is happy and full!
+Sharika [116] sat at the table. They want to eat 4 pancakes for lunch!
+Sharika [116] ate Pancake #61!
+Sharika [116] ate Pancake #60!
+Sharika [116] ate Pancake #59!
+Sharika [116] ate Pancake #58!
+Sharika [116] ate 4 pancakes in total!
+Sharika [116] is happy and full!
+Mirna [117] sat at the table. They want to eat 6 pancakes for lunch!
+Mirna [117] ate Pancake #57!
+Mirna [117] ate Pancake #56!
+Mirna [117] ate Pancake #55!
+Mirna [117] ate Pancake #54!
+Mirna [117] ate Pancake #53!
+Mirna [117] ate Pancake #52!
+Mirna [117] ate 6 pancakes in total!
+Mirna [117] is happy and full!
+Joseph [118] sat at the table. They want to eat 10 pancakes for lunch!
+Joseph [118] ate Pancake #51!
+Joseph [118] ate Pancake #50!
+Joseph [118] ate Pancake #49!
+Joseph [118] ate Pancake #48!
+Joseph [118] ate Pancake #47!
+Joseph [118] ate Pancake #46!
+Joseph [118] ate Pancake #45!
+Joseph [118] ate Pancake #44!
+Joseph [118] ate Pancake #43!
+Joseph [118] ate Pancake #42!
+Joseph [118] ate 10 pancakes in total!
+Joseph [118] is happy and full!
+We fed everyone today!
+We fed the remaining 41 pancakes to the birds.
+
+Process finished with exit code 0
