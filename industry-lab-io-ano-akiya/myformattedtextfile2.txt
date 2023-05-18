@@ -1,0 +1,2 @@
+LineOne,23,false,6.5
+LineTwo,42,true,3.25
